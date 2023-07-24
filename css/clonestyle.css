@@ -16,7 +16,8 @@
 }
 
 .header_text {
-    text-align: center;
+    display: flex;
+    align-items: center;
 }
 
 .header_icons {
